@@ -18,4 +18,4 @@
 
 
 >项目地址：https://github.com/fe-lesson/fe-lesson
->作者： [lolitaz](github.com/lolitaz)
+>作者： [LolitaZ](github.com/lolitaz)
